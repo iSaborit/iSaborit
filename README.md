@@ -16,7 +16,7 @@
 <p align="center">★ Me autodefino como un ingeniero de fracasos escolares y comebacks espectaculares.</br>
 >>> Trabajando cada día un poco para no tener que trabajar algún día (por favor)</br>
 Me entusiasma el bajo nivel. Así de bajo caí.</p>
----
+<hr>
 <p align="center">Actualmente pretendo subir al A+ a este coso. Ando loco.</p>
 <p align="center">
     <a href="https://github.com/iSaborit"><img src="https://github-readme-stats.vercel.app/api?username=iSaborit&show_icons=true&theme=catppuccin_mocha" alt="gesto's github stats"></a>
