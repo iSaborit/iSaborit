@@ -1,40 +1,25 @@
-<body>
 <p align="center">
-    <a href="https://yuna0x0.com">
+    <a href="https://www.youtube.com/@gesnook">
         <img src="frieren.webp" alt="Banner">
     </a>
 </p>
 
-<h1 align="center" style="font-family: 'Roboto', sans-serif;">Hi, I'm <a href="https://yuna0x0.com">Gesto</a>! (Or Iker. . . )</h1>
+<h1 align="center" style="font-family: 'Roboto', sans-serif;">Hola hola, ¡soy <a href="https://www.youtube.com/@gesnook">Gesto</a>! (O Iker ;) )</h1>
 <p align="center">
-    <a href="https://yuna0x0.com">
-        <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
-    </a>
+    <a href="https://github.com/iSaborit"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+    <a href="https://www.linkedin.com/in/iker-saborit-l%C3%B3pez-5468a92b9/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+    <a href="https://www.youtube.com/@gesnook"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
+    <a href="https://www.instagram.com/gesto.sk/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
-<h3 align="center">Welcome to my GitHub profile :3</h3>
+<h3 align="center">Bienvenidos a mi perfil de GitHub. (!!!)</h3>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
-
-<p align="center">
-    <strong><a href="https://yuna0x0.com">Website</a></strong> |
-    <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
-    <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
-    <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-    <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
-</p>
+<p align="center">★ Me autodefino como un ingeniero de fracasos escolares y comebacks espectaculares.</p>
+<p align="center">>>> Trabajando cada día un poco para no tener que trabajar algún día (por favor)</p>
+<p align="center">Me entusiasma el bajo nivel. Así de bajo caí.</p>
 
 <p align="center">
-    <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+    <a href="https://github.com/iSaborit"><img src="https://github-readme-stats.vercel.app/api?username=iSaborit&show_icons=true&theme=catppuccin_mocha" alt="gesto's github stats"></a>
 </p>
-<style>
-    body {
-    background-color: #f0f0f0;
-    font-family: 'Times New Roman', Times, serif;
-    margin: 0;
-    padding: 0;
-    }
-</style>
-</body>
 <!---
 - 👋 Hi, I’m @iSaborit
 - 👀 I’m interested in ...
