@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.youtube.com/@gesnook">
-        <img src="frieren.webp" alt="Banner">
+        <img src="frieren.webp" width="70%" alt="Banner">
     </a>
 </p>
 
